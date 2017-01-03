@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "S-Electronics",
-    "currentPage": "Home",
+    "currentPage": "S-CAM",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -411,7 +411,7 @@
           },
           "title": "S-CAM 1 <br>(ACTION CAM)",
           "text": "Eine Kleine aber feine Action Kamera!",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">KAUFEN!</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://www.amazon.de/gp/product/B01KLUT96Y/ref=oh_aui_detailpage_o03_s00?ie=UTF8&amp;psc=1\" data-toolbar=\"-mbrBtnMove\">KAUFEN!</a> "
         }
       ]
     }
