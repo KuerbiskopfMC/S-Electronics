@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "INTROMASCHINE",
+    "name": "S-Electronics",
     "currentPage": "Home",
     "theme": {
       "name": "default",
@@ -10,7 +10,7 @@
     "versionFirst": "3.10.4",
     "uniqCompNum": 10,
     "versionPublish": "3.10.4",
-    "favicon": "@PROJECT_PATH@/assets/images/intromachine-128x32-91.png",
+    "favicon": "@PROJECT_PATH@/assets/images/sr-128x72-39.jpg",
     "noImageResize": ""
   },
   "pages": {
