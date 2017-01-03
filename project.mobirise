@@ -116,7 +116,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "images/bg5.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1457305237443-44c3d5a30b89-2000x1328-10.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
