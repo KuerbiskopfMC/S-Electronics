@@ -133,8 +133,8 @@
             "showArrow": true
           },
           "title": "S-Drone SOFTWARE",
-          "text": "Hier könnt ihr die Software für die S-Drone Downloaden!<br>- Hitfilm Express (free)<br>- S-Cut Pro -Comming Soon-",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://hitfilm.com/express\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD HITFILM</a>  "
+          "text": "Hier könnt ihr die Software für die S-Drone Downloaden!<br>- S-Cut Pro",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"Home\" data-toolbar=\"-mbrBtnMove\">-Comming Soon-</a>    "
         }
       ]
     },
